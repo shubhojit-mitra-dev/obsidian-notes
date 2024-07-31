@@ -9,7 +9,7 @@
 
 ---
 
-![[Pasted image 20240731193644.png]]
+![[Pasted image 20240731220330.png]]
 
 ### What is Algorithm?
 
@@ -23,23 +23,23 @@ The process of drawing a flowchart for an algorithm is known as â€œflowchartingâ
 
 #### Q1. Sum of two numbers
 
-![[Pasted image 20240731201931.png]]
+
 
 #### Q2. Calculate Simple Interest
 
-![[Pasted image 20240731201414.png]]
+
 
 #### Q3. Check A < B
 
-![[Pasted image 20240731201804.png]]
+
 
 #### Q4. Check Odd or Even
 
-![[Pasted image 20240731202436.png]]
+
 
 #### Q5. Check a number is positive, negative or zero
 
-![[Pasted image 20240731203038.png]]
+
 
 #### Q6. Implement a loop to print numbers 1 -> n
 
