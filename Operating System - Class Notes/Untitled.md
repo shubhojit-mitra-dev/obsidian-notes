@@ -1,8 +1,8 @@
-🎓  Course: [[]]
+🎓  Course: [[Operating System]]
 
 📖  Topic: #
 
-📆  Date: {{date}}
+📆  Date: 2024-08-06
 
 🏷️  Labels: #
 

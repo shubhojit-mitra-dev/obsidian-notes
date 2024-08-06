@@ -5,7 +5,7 @@
 
 📖  Topic: #GettingStarted #ProblemSolving #Flowcharts 
 
-🔗  Important Links: [YouTube Tutorial:](https://www.youtube.com/embed/WQoB2z67hvY?si=MQPF9djUU62G4PHo) [Practice Flowcharts:](https://www.lucid.app/documents)
+🔗  Important Links: [YouTube Tutorial:](https://www.youtube.com/embed/WQoB2z67hvY?si=MQPF9djUU62G4PHo) [Practice Flowcharts:](https://app.diagrams.net/)
 
 ---
 
@@ -21,28 +21,25 @@ The process of drawing a flowchart for an algorithm is known as “flowcharting�
 
 [For more details](https://www.geeksforgeeks.org/an-introduction-to-flowcharts/)
 
-#### Q1. Sum of two numbers
+### Flowchart Examples:
+##### Q1. Sum of two numbers
 
+![[Pasted image 20240731222729.png]]
+##### Q2. Calculate Simple Interest
 
+![[Pasted image 20240731222913.png]]
+##### Q3. Check A < B
 
-#### Q2. Calculate Simple Interest
+![[Pasted image 20240731230140.png]]
+##### Q4. Check Odd or Even
 
+![[Pasted image 20240731230246.png]]
+##### Q5. Check a number is positive, negative or zero
 
+![[Pasted image 20240731231719.png]]
+##### Q6. Implement a loop to print numbers 1 -> n
 
-#### Q3. Check A < B
-
-
-
-#### Q4. Check Odd or Even
-
-
-
-#### Q5. Check a number is positive, negative or zero
-
-
-
-#### Q6. Implement a loop to print numbers 1 -> n
-
+![[Pasted image 20240801180545.png]]
 
 
 ---
