@@ -4,7 +4,7 @@
 
 📆  Date: 2024-08-05
 
-🏷️  Labels: #tables #primarykey #introduction
+🏷️  Labels: #tables #primarykey #introduction #lecture1 
 
 🔗  Important Links: 
 

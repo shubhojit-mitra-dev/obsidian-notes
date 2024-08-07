@@ -4,7 +4,7 @@
 
 📆  Date: 2024-08-06
 
-🏷️  Labels: #dbms #introduction
+🏷️  Labels: #dbms #introduction #lecture1 
 
 🔗  Important Links: 
 
